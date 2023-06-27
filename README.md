@@ -1,4 +1,4 @@
-- 👋 Hi, andrew. I’m currently teaching my self python to be a data scientist.
+- 👋 Hi, andrew. I’m currently teaching myself python. I want to be a data scientist.
 
 
 <!---
